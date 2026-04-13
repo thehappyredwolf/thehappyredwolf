@@ -4,11 +4,9 @@
 
 I’m a full-stack web developer focused on building real-world applications that solve practical problems.
 
-- 🔭 Currently building full-stack web apps that solve real-life pain points  
-- 🤝 Open to collaborating on real-world products and meaningful applications  
-- 🆘 Looking to improve my backend development and system design skills  
-- 🌱 Learning React, Node.js, and databases  
-- 💬 Ask me about JavaScript and my full-stack journey  
+- 🔭 Building full-stack web apps
+- 🤝 Open to working on real products
+- 🌱 Learning React, Node.js, databases and DSA
 - ⚡ Fun fact: I live ~1.5 km from the Giza Pyramids
 
 ---
