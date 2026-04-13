@@ -2,8 +2,6 @@
 
 ## 💫 About Me
 
-I’m a full-stack web developer focused on building real-world applications that solve practical problems.
-
 - 🔭 Building full-stack web apps
 - 🤝 Open to working on real products
 - ⚡ Fun fact: I live ~1.5 km from the Giza Pyramids
