@@ -6,7 +6,6 @@ I’m a full-stack web developer focused on building real-world applications tha
 
 - 🔭 Building full-stack web apps
 - 🤝 Open to working on real products
-- 🌱 Learning React, Node.js, databases and DSA
 - ⚡ Fun fact: I live ~1.5 km from the Giza Pyramids
 
 ---
